@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Theoretical aspect of catalysis"
+categories: lab
+author: Taehun Lee
+---
+
+I investigated the physical and chemical properties of bulk and surfaces of various oxides (hexagonal phase of tungsten trioxide and copper oxide) for its potential application in the water spiltting reaction with solvation models (publication #6)

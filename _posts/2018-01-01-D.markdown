@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Metal oxidation"
+categories: lab
+author: Taehun Lee
+---
+
+I tried to comprehend metal oxidation behavior in thin copper oxide layer growth on gold substrate (publications #3 and #6) via first-principles approaches. And DFT-based Tersoff-Hamann scanning tunnelling microscope (STM) topologies have been generated to compare with experimental results (publication #3). Also, I refined the atomistic thermodynamic model which takes different definitions of the chemical potential of the less abundant metal (publication #6).
