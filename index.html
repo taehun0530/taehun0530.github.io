@@ -1,31 +1,86 @@
 ---
 layout: default
-title: "Research"
+title: Home
 ---
+<style>
+ .front_pic{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 150px;
+    margin-right:150px;
+    font-size: 12pt;
+}
+</style>
+
+<style>
+ .front_text{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 170px;
+    margin-right:170px;
+    font-size: 12pt;
+}
+</style>
+
+<style>
+ .quote{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: "Monospace";
+    font-size: 13pt;
+    font-style: italic;
+}
+</style>
+
 <br><br>
-<center><H3><b>(2011 - 2019) Research Projects</b></H3></center> <br>
-{% for post in site.posts %}
-  <li>
-      <b><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></b>
-  </li>
-{% endfor %}
-<br>
-The research conducted in the Materials Theory Group (at Yonsei University, South Korea) aims to understand the structural properties of materials (from metal to oxide, in particularly focusing on surface properties) and their impact to physiochemical properties. And I hope these fundamental knowledges can play a key role in their overall desired performance for scientific and industrial perspective.<br><br>
+<figure style="margin: 0;">
+    <div style="line-height: 2;">
+        <center><img src="/images/at_conference_2016.jpg " width="250" hspace="0" vspace="0"></center>
+        <center><p style="color:gray;"><small>@APS March Meeting, USA (2016)</small></p></center>
+    </div>
+</figure>
 
-Following approaches make it possible to obtain these objectives. The main work horse is the density-functional theory by the combining the general concepts in solid-state physics.<br><br><br>
+<div class="front_text">
+<!--<center>--------</center>-->
+<center><b><H2> "Taehun Collins Lee" </b><br></center>
+@<a href="https://www.materials-theory.org">Materials Theory Group </a> under <a href="https://www.materials-theory.org/professor.html">Prof. Aloysius Soon</A><br>
+- Theoretical surface and interface scientist <br>
+- Computational material scientist <br>
+- Ph.D. candidate (Fall 2019)<br> <br>
+<center><hr></center>
+More information
+<ul style="list-style-type:circle">
+	<li> About <b><a href="/about">me</A></b> (<a href="/download/201810_THLee.pdf" download >Résumé</a>) </li>
+  <li> Research <b><a href="/achievements">Achievement</A></b></li>
+  <li> <b><a href="/research">Research</A></b> aims and projects</li>
+  <li> <b><a href="/people">Supervisor</A></b> and <b><a href="/people">collaborators</A></b></li>
+</ul>
+</div>
 
-<center><h3> <b>Theoretical approaches </b></h3></center>
-<ul>
-  <li><b>Density-functional theory (DFT) </b> and beyond, using Vienna Ab initio Simulation Package (VASP), DMol<sup>3</sup> </li>
-  <li><b><i>Ab initio</i> molecular dynamics (<i>ai</i>MD)</b> which is implemented in VASP code</li>
-  <li>Advanced <i>ab initio</i> atomistic <b>thermodynamics</b> and Gibbs-Wulff theorem</li>
-  <li>Theoretical <b>core level binding energy (BE) </b> and their shifts computation for the direct comparison with X-ray photoelectron spectroscopy (XPS) observation</li>
-  <li><b>Scanning tunneling microscopic (STM) simulations</b> via <a href="http://www.phy.bme.hu/~palotas/">bSKAN package</A> -- first-principles simulation program of scanning tunneling microscopic data and spectroscopic spectra, developed by Dr. Krisztián Palotás and his colleagues)</li>
-  <li><b>Structural evolution</b> and <b>discovery</b> with nature-inspired algorithms: <a href="http://www.calypso.cn/">CALYPSO</A> (Crystal structure AnaLYsis by Particle Swarm Optimization; Structure prediction software using swarm intelligence) and <a href="http://ann.atomistic.net/">Atomic Energy Network (ænet)</A> </li>
-</ul><br>
+<!--<br><H3> <b>News in 2018</b> </H3>
+<ul style="list-style-type:circle">
+	<li> <b>2018/10</b>: Open personal website</li>
+  <li> <b>2018/10</b>: New publication on J. Phys. Chem. C</li>
+  <li> <b>2018/10</b>: Conference participation </li>
+</ul> <br> <br>-->
+<br><br>
+<H3> <b>Quotes</b></H3>
+<div class="quote">
+ "You cannot teach a man anything; you can only help him discover it in himself."
+<br><div align="right">
+― Galileo Galilei
+</div></div>
 
-These approaches make possible to predict accurate local atomic structures with their unique electronic structures. Furthermore, the structure−property relationship can be rationalized by examining how the structural displacement (e.g, inter- and intra-distortion of atoms, polymorphism or polytypism and structural reconstructions)can impact the electronic structures. On this basis, we can find the design rule for the high-performance devices for future key energy applications.<br><br>
+<div class="quote">
+"Imagination is more important than knowledge."
+<br><div align="right">
+― Albert Einstein
+</div></div>
 
-In addition, I am interested in the growth mechanisms and heterogeneous catalysis process where the atomic-scale understanding of structural changes is important. Despite of receiving a tremendous amount of interest in those surface progress, there detailed surface mechanisms (at the atomic-scale) are still clearly lacking. Therefore, those theoretical surface characterization might be able to contribute to build the fundamental foundations and it can bring positive environmental impact, particularly in the area of clean energy technologies. <br><br>
-
-  <!-- Figure: <img src="/images/cotten_small.jpg" alt="ZiBRA bus by Matt Cotten" border="4px solid black;/> -->
+<div class="quote">
+"One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don't throw it away."
+<br><div align="right">
+― Stephen Hawking
+</div></div>

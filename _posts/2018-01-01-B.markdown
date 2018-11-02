@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Polymorphic (polytypic) expression of metal oxide"
-categories: lab
-author: nick
+categories: research projects
+author: Taehun Lee
 ---
-
-The understanding of structure−property relations can accelerate technological development e.g., in clean enegy technologies and advanced (opto)-electronics. I examine and predict how the structural properties affect the stablilties and opto-electronic properties of heavy elements transition metal oxide (tungsten, molybdeuim, tantalium oxides) and their impact to potential applications (publication #6).
+On construction
+<!--
+The understanding of structure−property relations can accelerate technological development e.g., in clean enegy technologies and advanced (opto)-electronics. I examine and predict how the structural properties affect the stablilties and opto-electronic properties of heavy elements transition metal oxide (tungsten, molybdeuim, tantalium oxides) and their impact to potential applications (publication #6). -->
