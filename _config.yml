@@ -11,7 +11,7 @@ email: taehun0530@yonsei.ac.kr
 description: Taehun Collins Lee personal website.
 baseurl: # the subpath of your site, e.g. /blog
 url: "taehun0530.github.io" # the base hostname & protocol for your site
-github_username:  taehun0530
+github_username:  
 
 # Build settings
 markdown: kramdown
