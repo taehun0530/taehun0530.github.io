@@ -4,11 +4,14 @@ title: "THLee"
 ---
 <br>
 <h3><b>Introduction</b></h3>
-<p>My name is <b>Taehun Collins Lee</b> (<a href="/download/201810_THLee.pdf" download >résumé</a>), and I am currently a Ph. D. student at Yonsei University, South Korea. Department of Materials Science and Engineering) under the supervision of Prof. Aloysius Soon. <br> <br> </p> 
+My name is <b>Taehun Collins Lee</b> (<a href="/download/201810_THLee.pdf" download >résumé</a>), and I am currently a Ph. D. student at Yonsei University, South Korea. Department of Materials Science and Engineering) under the supervision of Prof. Aloysius Soon.
 
-<p><img src="/images/taehunlee.jpg" width="270" align="right" hspace="15" vspace="42"> As a <b>computational material scientist</b>, I have investigated and predicted <b> the physical and chemical properties of various materials </b> based on their atomic structures (with electronic structure calculations via density-functional theory) <b>to understand how the natural world works</b>, e.g., the micro-structural evolution or the phase transition induced by the thermodynamic or kinetic driving forces, and the growth or reaction processes under the reactive environments. Also using on the fundamental scientific findings, I weighted their <b>impacts to the practical applications</b> and provided the design rules for devices with desired performances. <br> <br>
-
-The understanding at atomistic level (or nanoscopic scale) sometimes make it possible to solve the material's problem in real world (or macroscopic scale). In this spirit, I hope <b>to expand the quality of our life </b> with my help. </p><br>
+As a <b>computational material scientist</b>, I have investigated and predicted <b> the physical and chemical properties of various materials </b> based on their atomic structures (with electronic structure calculations via density-functional theory) <b>to understand how the natural world works</b>, e.g., the micro-structural evolution or the phase transition induced by the thermodynamic or kinetic driving forces, and the growth or reaction processes under the reactive environments. Also using on the fundamental scientific findings, I weighted their <b>impacts to the practical applications</b> and provided the design rules for devices with desired performances.
+<figure style="margin: 0;">
+        <center><img src="/images/taehunlee.jpg" width="300" hspace="0" vspace="10"></center>
+        <center><p style="color:gray;"><small>@Yonsei University (2018)</small></p></center>
+</figure>
+The understanding at atomistic level (or nanoscopic scale) sometimes make it possible to solve the material's problem in real world (or macroscopic scale). In this spirit, I hope <b>to expand the quality of our life </b> with my help. <br>
 
 <h3><b>Career</b></h3>
 - 2007 -- 2011: __Bachelor’s Degree, Material Science and Engieering, Yonsei University, Seoul, Korea__ (with Korea Student Aid Foundation Science and Engineering scholarship, awarded by Korea Student Aid Foundation, 2007 -- 2011)
