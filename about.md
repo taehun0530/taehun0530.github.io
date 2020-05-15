@@ -3,7 +3,7 @@ layout: default
 title: "THLee"
 ---
 <br>
-My name is <b>Taehun Lee</b> (<a href="/download/201911_THLee.pdf" download >résumé</a>), and I am a postdoctoral researcher in the Department of Materials Science and Engineering at Yonsei University, Korea under the supervision of Prof. Aloysius Soon. My research interest lies in the theoretical study and design of novel low-dimensional oxides on metal support for renewable applications, exploiting atomic theoretical surface characterization approaches. To date, I have co-authored 15 high-profile publications, ranking well within the top-tier scientific journals in chemistry, physics, and materials science.
+My name is <b>Taehun Lee</b> (<a href="/download/201911_THLee.pdf" download >résumé</a>), and I am a postdoctoral researcher in the Department of Materials Science and Engineering at Yonsei University, Korea under the supervision of Prof. Aloysius Soon. My research interest lies in the theoretical study and design of novel low-dimensional oxides (on metal support) at the realistic conditions (e.g., controlled growth conditions, solvation effects, and electrochemical environments) for renewable energy applications (e.g., water splitting reaction and CO<sub>2</sub> utilization). To date, I have co-authored 16 high-profile publications, ranking well within the top-tier scientific journals in chemistry, physics, and materials science.
 
 <figure style="margin: 0;">
         <center><img src="/images/taehunlee.jpg" width="320" hspace="0" vspace="10"></center>
@@ -14,40 +14,45 @@ My name is <b>Taehun Lee</b> (<a href="/download/201911_THLee.pdf" download >ré
 <ul style="line-height:1.6;font-size:15px">
     <li>2007/03 - 2011/02: <b>Bachelor</b>, Materials science and engineering department, Yonsei University</li>
     <li>2011/03 - 2019/08: <b>Ph. D.</b>, Material science and engineering department, Yonsei University <br> (Supervisor: Prof. Aloysius Soon)</li>
-    <li>2019/09 - current: <b>Postdoctoral research fellow</b>, Yonsei University (Supervisor: Prof. Aloysius Soon)</li>
+    <li>2019/09 - current: <b>Postdoctoral research associate</b>, Material science and engineering department, Yonsei University (Supervisor: Prof. Aloysius Soon)</li>
     <li>2016 - current: <b>“Materials Horizons” Community Board Member </b> (Royal Society of Chemistry (RSC))</li>
 </ul>
+
+<!--
+    <li>2020/07 - current: <b>Postdoctoral research associate</b>, Chemistry department, Princeton University (Supervisor: Prof. Annabella Selloni)</li>
+-->
+
 <ul style="line-height:1.6;font-size:15px;list-style-type:circle">
     <li>2007/03 - 2011/02: <b>Korea Student Aid Foundation Science and Engineering scholarship</b>, awarded by Korea Student Aid Foundation</li>
     <li>2011/03 - 2014/02: <b> Global Ph.D. fellowship</b>, awarded by National Research Foundation of Korea</li>
-    <li>2019/9 - current: Post Doctoral Researcher Supporting Program of Yonsei University</li>
+    <li>2019/9 - 2020/08: <b> Postdoctoral Researcher Supporting Program </b> of Yonsei University</li>
 </ul>
 
 <br>
 <h3><b>Research experiences and achievements</b></h3>
-I have experience with __first-principles electronic structure calculations__. What I focused on the past few years was the __applications of density-functional theory (DFT) calculations__, exploiting theoretical surface characterization approaches -- which covers thermodynamics, theoretical spectroscopy, and microscopy -- to understand metals or oxides surface properties for the better performances of the heterogeneous catalytic system.
+What I focused on the past few years was the applications of density-functional theory (DFT) calculations to understand how local surface and interface geometries control their functionalities by exploiting theoretical surface characterization approaches--which covers an electronic structure analysis, statistic thermodynamics, theoretical spectroscopy, and microscopy simulations. Below are the detailed topics I investigated until now; 
 
-<center><img src="/images/research/research.png" width="400" hspace="10"></center><br>
+- __Oxidation of (bi)metal surfaces under controlled growth conditions__
+- __Water-splitting reactions on oxide surfaces__
+- __Development and application of theoretical surface characterizations of above surface processes__
 
-- __Theoretical surface characterization__
-- __Oxidation of bimetallic system__
-- __Theoretical aspect of catalysis (water-splitting reaction and CO<sub>2</sub> utilization)__
-- __Polymorphic (polytypic) expression of metal oxide__
+<center><img src="/images/research/research.png" width="350" hspace="10"></center><br>
 
-Also, I demonstrated organizing skills, especially writing and presentations skills via publishing the articles as the first- and co-authors in peer-reviewed (highly cited) journals (in the field of physical chemistry, chemical physics, and material science) and participating domestic and international conferences (see <b><a href="/achievements">achievements</A></b> section).
-<br> <br>
+After I move to Princeton, I am interested in the introduction of machine learning methods to materials science to understand metals or oxides surface properties for the better performances of the heterogeneous catalytic system.
+
+I demonstrated organizing skills, especially writing and presentations skills via publishing the articles as the first- and co-authors in peer-reviewed (highly cited) journals (in the field of physical chemistry, chemical physics, and material science) and participating domestic and international conferences (see <b><a href="/achievements">achievements</A></b>). <br> <br>
 
 <h3> <b>Theoretical approaches </b></h3>
 <ul style="line-height:1.6;font-size:16px">
-  <li><b>Density-functional theory (DFT) and <i>Ab initio</i> molecular dynamics (<i>ai</i>MD)</b>, using <a href="https://www.vasp.at/">Vienna Ab initio Simulation Package (VASP)</A> and DMol<sup>3</sup></li>
+  <li><b>Density-functional theory (DFT) and <i>Ab initio</i> molecular dynamics (<i>ai</i>MD)</b>, using <a href="https://www.vasp.at/">Vienna Ab initio Simulation Package (VASP)</A>, <a href="https://www.quantum-espresso.org/">Quantum Espresso (QE)</A>, and DMol<sup>3</sup></li>
+  <li><b> Molecular dynamics (MD) with deep learning based model of interatomic potential </b> using <a href="http://www.deepmd.org/about/">DeePMD-kit</A>
+  </li>
   <li><i>Ab initio</i> atomistic <b>thermodynamics</b> and Gibbs-Wulff theorem</li>
   <li>Theoretical <b>core-level binding energy (BE) calculations </b></li>
-  <li><b>Scanning tunneling microscopic (STM) simulations</b> using <a href="http://www.phy.bme.hu/~palotas/">BSKAN package</A>, developed by Dr. Krisztián Palotás)</li>
-  <li><b>Structural evolution</b> and <b>discovery</b> with nature-inspired algorithms using <a href="http://www.calypso.cn/">CALYPSO</A> (Crystal structure AnaLYsis by Particle Swarm Optimization) </li>
+  <li><b>Scanning tunneling microscopy (STM) simulations</b> using <a href="http://www.phy.bme.hu/~palotas/">BSKAN code</A>, developed by Dr. Krisztián Palotás)</li>
+  <li><b>Structural evolution</b> and <b>discovery</b> with nature-inspired algorithms using python modules</li>
 </ul>
 
-<center><img src="/images/research/approach.png" width="500" hspace="10"></center><br>
+<center><img src="/images/research/approach.png" width="450" hspace="10"></center><br>
 
-<h3><b>Further information</b></h3>
-- <a href="https://scholar.google.com/citations?user=E4QBWfAAAAAJ&hl=en">Google scholar</A> 
-- Email: <a href="mailto:taehun0530@yonsei.ac.kr" target="_top">taehun0530@yonsei.ac.kr</a>
+For further information, please send me an email (to <a href="mailto:taehun0530@yonsei.ac.kr" target="_top">taehun0530@yonsei.ac.kr</a>) or refer to those websites (<a href="https://scholar.google.com/citations?user=E4QBWfAAAAAJ&hl=en">Google scholar</A> and <a href="https://orcid.org/0000-0002-5435-5910">ORCID</A>).
