@@ -5,13 +5,13 @@ title: "Achievements"
 <br>
 <H3><b> Research achievements</b></H3>
 - <b>16</b> papers (<i>h</i>-index=7, first author=7, corresponding author=1)
-- <a href="/achievements/conference">Oral talks & poster presentations</A> (last updated on May 2020)
+- <a href="/achievements/conference">Oral talks & poster presentations</A> (last updated on July 2020)
 <br><br> 
 
 <H3><b> Peer-reviewed publication list </b></H3>
 <ol reversed>
 <center>-----------------<b>2020</b>-----------------</center>
-  <li>G. Lee, Y.-J. Lee, K. Palotás, <b>T. Lee<sup>#</sup></b>, and A. Soon<sup>#</sup>, <font color="gray">Atomic Structure and Work Function Modulations in Two-dimensional Ultrathin CuI Films on Cu(111) from First Principles</font>, <i>J</i>. <i>Phys</i>. <i>Chem</i>. <i>C</i> under review (#corresponding author) </li>
+  <li>G. Lee, Y.-J. Lee, K. Palotás, <b>T. Lee<sup>#</sup></b>, and A. Soon<sup>#</sup>, <font color="gray">Atomic Structure and Work Function Modulations in Two-dimensional Ultrathin CuI Films on Cu(111) from First Principles</font>, <i>J</i>. <i>Phys</i>. <i>Chem</i>. <i>C</i>, DOI: acs.jpcc.0c02842 (2020) (#corresponding author) </li>
 <br>
 <center>-----------------<b>2019</b>-----------------</center>
   <li>J. Lee, H. Kim, <b>T. Lee</b>, W. Jang, K. H. Lee, and A. Soon, <font color="gray">Revisiting Polytypism in Hexagonal Ternary Sulfide ZnIn<sub>2</sub>S<sub>4</sub> for Photocatalytic Hydrogen Production within the Z-scheme</font>, <i>Chem. Mater</i>. <b>31</b>, 9148 (2019)</li>

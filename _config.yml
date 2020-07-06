@@ -7,8 +7,8 @@
 
 # Site settings
 #title: Taehun Collins Lee personal research website
-email: taehun0530@yonsei.ac.kr
-description: Taehun Lee's website.
+email: taehun.lee@princeton.edu
+description: Taehun Lee's personal research website.
 baseurl: # the subpath of your site, e.g. /blog
 url: "taehun0530.github.io" # the base hostname & protocol for your site
 github_username:  
