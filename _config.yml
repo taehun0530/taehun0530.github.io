@@ -1,9 +1,17 @@
 ##
-title: Just the Docs Template
+title: Lee's group @JBNU
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
+baseurl: ""
 url: https://taehun.github.io
+
+search_enabled: false
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
