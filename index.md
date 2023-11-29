@@ -24,11 +24,11 @@ li{
 </style>
 
 <span>
-Welcome to <b>Computational Materials & Interfaces Group</b> in the [Division of Advanced Materials Engineering](https://wz3.jbnu.ac.kr/sites/materialseng/index..do),  Jeonbuk National University (JBNU), S. Korea.
+Welcome to <b>Computational Materials & Interfaces Research Group</b> in the [Division of Advanced Materials Engineering](https://wz3.jbnu.ac.kr/sites/materialseng/index..do),  Jeonbuk National University (JBNU), S. Korea.
 </span>
 
 <span>
-"Computational Materials & Interfaces group" in JBNU, led by Professor [Taehun Lee](/people), utilizes computational simulation approaches to analyze and predict materials' properties. Our particular emphasis lies in semiconductor materials, with a focus on defects, and their applications in diverse fields such as solar cells, photocatalysts, and semiconductor devices. We are dedicated to investigating the electronic and dynamical properties of semiconducting materials at interfaces, including vacuum/surfaces, electrolyte/electrode interfaces, and heterojunctions between different materials. Furthermore, our research extends to exploring unconventional forms of materials, such as amorphous structures, nanostructures, and defect-rich phases.
+"Computational Materials & Interfaces Research Group" in JBNU, led by Professor [Taehun Lee](/people), utilizes computational simulation approaches to analyze and predict materials' properties. Our particular emphasis lies in semiconductor materials, with a focus on defects, and their applications in diverse fields such as solar cells, photocatalysts, and semiconductor devices. We are dedicated to investigating the electronic and dynamical properties of semiconducting materials at interfaces, including vacuum/surfaces, electrolyte/electrode interfaces, and heterojunctions between different materials. Furthermore, our research extends to exploring unconventional forms of materials, such as amorphous structures, nanostructures, and defect-rich phases.
 </span>
 
 <span>

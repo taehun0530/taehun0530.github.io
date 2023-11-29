@@ -16,8 +16,10 @@ permalink: people
 }
 
 img {
-  max-width: 200px;
+  max-width: 165px;
   max-height:auto;
+  margin: auto;
+  display: block;
 }
 
 .text {
