@@ -30,7 +30,7 @@ li{
 
 <ul>
   <li>Development of machine learning potential and its application for oxide/electrolyte interfaces or semiconducting complex compounds</li>
-  <li>Investigation of defect structure sampling and electronic properties for oxides or hybrid perovskite using aiMD and hybrid functionals</li>
+  <li>Investigation of defect structure sampling and electronic properties for oxides using aiMD and hybrid functionals with advanced sampling method</li>
   <li>Data mining for battery applications; Understanding dynamical properties for electrode/electrolyte interfaces</li>
 </ul>
 ---
@@ -41,7 +41,7 @@ li{
 
 <ul>
   <li>산화물/전해질 계면 또는 복합 반도체 화합물을 위한 머신 러닝 포텐셜 개발 및 응용 <br> (응용분야: 광촉매, 상변화 메모리)</li>
-  <li>산화물 또는 하이브리드 페로브스카이트 (계면)의 결함 구조 샘플링 및 전자 구조 특성 평가 <br> (응용분야: 광소자, 태양전지) </li>
+  <li>산화물 (계면)의 결함 구조 샘플링 및 전자 구조 특성 평가 <br> (응용분야: 광소자, 반도체 소자) </li>
   <li>배터리 소재 개발을 위한 데이터 마이닝; 전극/전해질 계면의 동적 특성 평가 <br> (응용분야: 배터리)</li>
 </ul>
 ---
