@@ -27,19 +27,46 @@ ol{
 
 **At JBNU**:
 
-> **2023**
+> **2024**
 {: .fs-3}
 <ol>
+
+  <li>
+    <b>T. Lee</b> and A. Soon<br>
+    "<a href="https://www.nature.com/articles/s41929-023-01088-y" style="color:gray">The Rise of Ab Initio Surface Thermodynamics</a>",<br>
+    <i>Nat. Catal.</i> 7, 4 (2024)
+  </li>
+
   <li>
     X. Jin,<sup>†</sup> <b>T. Lee</b>,<sup>†</sup> A. Soon, and S.-J. Hwang,<br>
-    "<a href="url" style="color:gray">Defect-assisted Transformation of MoS<sub>2</sub> Nanosheets Into Defective MoS<sub>2</sub> Nanoclusters to Regulate Sodium-ion Electrode Functionality</a>",<br>
-    <i>Under review</i> (2023)
+    "<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202316446" style="color:gray">Defect-assisted Transformation of MoS<sub>2</sub> Nanosheets Into Defective MoS<sub>2</sub> Nanoclusters to Regulate Sodium-ion Electrode Functionality</a>",<br>
+    Accepted in <i>Adv. Funct. Mater.</i> (2024)
   </li>
-    <li>
-    <b>T. Lee</b> and A. Soon<br>
-    "<a href="url" style="color:gray">The rise of ab initio surface thermodynamics</a>",<br>
-    <i>Under review</i> (2023)
+
+  <li>
+    G. Heo, A. Soon<sup>#</sup>, and <b>T. Lee</b><sup>#</sup>,<br>
+    "<a href="https://pubs.rsc.org/en/content/articlelanding/2024/ta/d4ta04553j" style="color:gray">Data-Mining Fluoride-Based Solid-State Electrolytes for Monovalent Metal Batteries</a>",<br>
+    Accepted in <i>J. Mater. Chem. A</i> (2024)
   </li>
+
+  <li>
+    X. Jin,<sup>†</sup> <b>T. Lee</b>,<sup>†</sup> A. Soon, and S.-J. Hwang,<br>
+    "<a href="url" style="color:gray">pH-Tunable Mechanism of Oxygen Evolution in Amorphous RuO<sub>2</sub> Nanosheets</a>",<br>
+    Under review in <i>Nat. Commun.</i> (2024)
+  </li>
+
+  <li>
+    S. Ghods, H. Lee, J.-H. Choi, J.-Y. Moon, S. Kim, S.-I. Kim, H. J. Kwun, M. J. Josline, C. Y. Kim, S.-H. Hyun, S. W. Kim, S.-K. Son, <b>T. Lee</b>, Y. K. Lee, K. Heo, K. Novoselov, J.-H. Lee,<br>
+    "<a href="url" style="color:gray">A Topological Van der Waals Contact for Two-Dimensional Semiconductors</a>",<br>
+    Under review in <i>ACS Nano</i> (2024)
+  </li>
+
+  <li>
+    J. Hwang, J. Mun, K.-T. Lee, <b>T. Lee</b>, J. Kim, J. Min, K. Park,<br>
+    "<a href="url" style="color:gray">Impact of Humidity on Long-Term Stability of HfS<sub>2</sub> Grown on Sapphire Substrate by Chemical Vapor Deposition and Strategies to Prevent Native Oxidation</a>",<br>
+    Under review in <i>ACS Appl. Mater. Interfaces.</i> (2024)
+  </li>
+
 
 </ol>  
 

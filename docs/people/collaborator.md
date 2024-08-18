@@ -29,10 +29,14 @@ li{
 
 <ul>
     <li>Professor <a href="https://www.materials-theory.group/professor">Aloysius Soon</a> (Yonsei, Korea)</li>
-    <li>Professor <a href="https://chemistry.princeton.edu/faculty-research/faculty/annabella-selloni/">Annabella Selloni</a> (Princeton, US)</li>
-    <li>Doctor <a href="https://ko-research.org">Hsin-Yu</a> and Ju-an (Cornell, US)</li>
+    <li>Professor Annabella Selloni (Princeton, US)</li>
+    <li>Professor Seong-Ju Hwang (Yonsei, Korea) & Professor Xiaoyan Jin (University of Seoul, Korea) </li>
+    <li>Professor Yoon Kyeung Lee (Jeonbuk National University, Korea)</li>    
+    <li>Professor Keun Heo (Jeonbuk National University, Korea)</li>        
+    <li>Doctor Junhyub Jeon (Jeonbuk National University, Korea)</li>    
     <li>Doctor Yonghyuk Lee (UCLA, US)</li>
-    <li>Professor Seong-Ju Hwang & Doctor Xiaoyan Jin (Yonsei, Korea)</li>
+    <li>Doctor Su-Hyun Yoo (Korea Research Institute of Chemical Technology, Korea)</li>
+    <li>Doctor Jimmy-Xuan Shen (Lawrence Livermore National Laboratory, US)</li>
 </ul>
 
 <br>

@@ -61,15 +61,39 @@ __
 <br>
 **Period:** November 2023 ~ Present
 {: .fs-3 }
-<br><br>
+<br>
 
 ### JAEHYUK CHOI, Undergraduate Researcher
 {: .fs-4 }
-
-**Research Topic:** Defect Physics for Oxides
+<br>
+**Research Topic:** Defect in Bulk Oxides
 <br>
 **Contact:** <a href="mailto:cjh72679jbnu@jbnu.ac.kr">cjh72679jbnu@jbnu.ac.kr</a>
 <br>
 **Period:** November 2023 ~ Present
 {: .fs-3 }
 <br>
+
+### JUNHYEON MUN, Undergraduate Researcher
+{: .fs-4 }
+<br>
+**Research Topic:** Defect in Bulk Oxides
+<br>
+**Contact:** <a href="mailto:
+moonjh0504@jbnu.ac.kr">
+moonjh0504@jbnu.ac.kr</a>
+<br>
+**Period:** June 2024 ~ Present
+{: .fs-3 }
+<br>
+
+### CHANGKYU CHO, Undergraduate Researcher
+{: .fs-4 }
+<br>
+**Research Topic:** Defect at Surfaces & Interfaces
+<br>
+**Contact:** <a href="mailto:cck11367@jbnu.ac.kr">cck11367@jbnu.ac.kr</a>
+<br>
+**Period:** July 2024 ~ Present
+{: .fs-3 }
+<br><br>

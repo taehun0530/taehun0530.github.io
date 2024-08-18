@@ -28,7 +28,7 @@ Welcome to <b>Computational Materials & Interfaces Research Group</b> in the [Di
 </span>
 
 <span>
-"Computational Materials & Interfaces Research Group" in JBNU, led by Professor [Taehun Lee](/people), utilizes computational simulation approaches to analyze and predict materials' properties. Our particular emphasis lies in semiconductor materials, with a focus on defects, and their applications in diverse fields such as solar cells, photocatalysts, and semiconductor devices. We are dedicated to investigating the electronic and dynamical properties of semiconducting materials at interfaces, including vacuum/surfaces, electrolyte/electrode interfaces, and heterojunctions between different materials. Furthermore, our research extends to exploring unconventional forms of materials, such as amorphous structures, nanostructures, and defect-rich phases.
+The "Computational Materials & Interfaces Research Group" at JBNU, led by Professor [Taehun Lee](/people), employs computational simulation approaches to analyze and predict the properties of materials. Our primary focus is on semiconductor materials, particularly on defects, and their applications in various fields such as photocatalysts, batteries, and semiconductor devices. We are committed to investigating the electronic and dynamical properties of semiconducting materials at interfaces, including vacuum/surface and electrolyte/electrode interfaces, and heterojunctions between different materials. Additionally, our research explores unconventional forms of materials, such as amorphous structures, nanostructures, and defect-rich phases.
 </span>
 
 <span>
@@ -46,7 +46,7 @@ See our group's [publications](/publications).
 </span>
 
 <span>
-저희 연구실은 재료와 재료의 계면 특성을 분석하고 예측하기 위해 전산 모사 기법을 활용하고 있습니다. 특히 태양 전지, 광촉매, 반도체 소자 등에 활용되는 결함을 포함하는 반도체 재료 및 반도체/전해질 계면에 초점을 맞추고 있습니다. 전자 수준부터 디바이스 스케일까지 재료 특성을 평가하기 위해, density-functional theory, Hartree-Fock method 같은 고전적인 전자 구조 계산 기법을 활용하며, 또한 최근에 주목 받고 있는 머신 러닝 포텐셜 기반의 molecular dynamics을 수행하고 있습니다. 최근에는 데이터마이닝, 머신 러닝 같은 기술을 전통적 방법 및 소재 관련 데이터와 결합하여 차세대 소재 특성 분석과 발견을 가속화하고 있습니다.
+저희 연구실은 재료와 재료의 계면 특성을 분석하고 예측하기 위해 전산 모사 기법을 활용하고 있습니다. 특히 (광)촉매, 배터리, 반도체 소자 시스템을 모사하며, 그 소자 내에서의 결함이 소자에 미치는 영향에 대해서 연구하고 있습니다. 전자 수준부터 디바이스 스케일까지 재료 특성을 평가하기 위해, density-functional theory, Hartree-Fock method 같은 고전적인 전자 구조 계산 기법을 활용하며, 또한 최근에 주목 받고 있는 머신 러닝 포텐셜 기반의 molecular dynamics을 수행하고 있습니다. 최근에는 데이터마이닝, 머신 러닝 같은 기술을 전통적 방법 및 소재 관련 데이터와 결합하여 차세대 소재 특성 분석과 발견을 가속화하고 있습니다.
 </span>
 
 <span>
@@ -70,7 +70,7 @@ See our group's [publications](/publications).
   <ul>
     <li>Crystalline/amorphous oxides (e.g., TiO<sub>2</sub>, ZrO<sub>2</sub>, RuO<sub>2</sub>, and BiVO<sub>4</sub>) with defects, their surfaces & interfaces with electrolyte</li>
     <li>Battery electrodes & their interfaces with electrolyte</li>
-    <li>Hybrid perovskites with defects & their surfaces and heterojunctions</li>
+    <li>Realstic semicoductor systems with defects & their surfaces and heterojunctions</li>
   </ul>
 </div>
 
@@ -80,7 +80,7 @@ See our group's [publications](/publications).
   <span><b>Methods</b></span>
   <ul>
     <li>DFT and hybrid functional calculations</li>
-    <li>Ab initio molecular dynamics & molecular dynamics with machine learning interatomic potentials</li>
+    <li>Ab initio molecular dynamics & molecular dynamics with machine learning interatomic potentials using advanced sampling method</li>
     <li>Data mining & High-throughput screening</li>
   </ul>
 </div>
